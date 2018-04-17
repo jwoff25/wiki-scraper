@@ -1,0 +1,56 @@
+Hartsfield–Jackson Atlanta International Airport | ATL
+Beijing Capital International Airport | PEK
+Dubai International Airport | DXB
+Los Angeles International Airport | LAX
+Tokyo Haneda International Airport | HND
+O'Hare International Airport | ORD
+Heathrow Airport | LHR
+Hong Kong International Airport | HKG
+Shanghai Pudong International Airport | PVG
+Charles de Gaulle Airport | CDG
+Dallas/Fort Worth International Airport | DFW
+Amsterdam Airport Schiphol | AMS
+Frankfurt Airport | FRA
+Istanbul Atatürk Airport | IST
+Guangzhou Baiyun International Airport | CAN
+John F. Kennedy International Airport | JFK
+Singapore Changi Airport | SIN
+Denver International Airport | DEN
+Seoul Incheon International Airport | ICN
+Suvarnabhumi Airport | BKK
+Indira Gandhi International Airport | DEL
+Soekarno–Hatta International Airport | CGK
+San Francisco International Airport | SFO
+Kuala Lumpur International Airport | KUL
+Madrid Barajas Airport | MAD
+McCarran International Airport | LAS
+Chengdu Shuangliu International Airport | CTU
+Seattle-Tacoma International Airport | SEA
+Chhatrapati Shivaji International Airport | BOM
+Miami International Airport | MIA
+Charlotte Douglas International Airport | CLT
+Toronto Pearson International Airport | YYZ
+Barcelona–El Prat Airport | BCN
+Phoenix Sky Harbor International Airport | PHX
+Gatwick Airport | LGW
+Taiwan Taoyuan International Airport | TPE
+Munich Airport | MUC
+Sydney Kingsford-Smith Airport | SYD
+Kunming Changshui International Airport | KMG
+Shenzhen Bao'an International Airport | SZX
+Orlando International Airport | MCO
+Leonardo da Vinci–Fiumicino Airport | FCO
+George Bush Intercontinental Airport | IAH
+Benito Juárez International Airport | MEX
+Shanghai Hongqiao International Airport | SHA
+Newark Liberty International Airport | EWR
+Ninoy Aquino International Airport | MNL
+Narita International Airport | NRT
+Minneapolis/St Paul International Airport | MSP
+Hamad International Airport | DOH
+São Paulo-Guarulhos International Airport | GRU
+Domodedovo International Airport | DME
+Detroit Metropolitan Wayne County Airport | DTW
+Philadelphia International Airport | PHL
+Tullamarine International Airport | MEL
+Logan International Airport | BOS
